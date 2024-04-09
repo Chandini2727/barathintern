@@ -1,0 +1,1 @@
+a machine learning model for predicting house prices using Python, scikit-learn, and TensorFlow. I started by gathering a suitable dataset, and then I proceeded to preprocess the data, including handling missing values, encoding categorical variables, and scaling numerical features to ensure uniformity across the dataset.
